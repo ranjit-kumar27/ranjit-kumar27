@@ -1,12 +1,13 @@
 <!-- Header -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Ranjit%20Kumar&fontSize=52&fontColor=7dd3fc&desc=Final%20Year%20CSE%20Student%20%7C%20Java%20Backend%20Developer&descSize=20&descAlignY=58&animation=twinkling&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:7dd3fc\&height=220\&section=header\&text=Ranjit%20Kumar\&fontSize=52\&fontColor=7dd3fc\&desc=Final-Year%20CSE%20Student%20%7C%20Java%20Backend%20Developer\&descSize=20\&descAlignY=58\&animation=twinkling\&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Built+Taskly+%E2%80%94+an+AI+React+Code+Generator;Microservices+%7C+Kafka+%7C+Eureka+%7C+JWT;500%2B+DSA+problems+solved;Oracle+OCI+2025+Certified+in+Generative+AI)](https://github.com/ranjit-kumar27)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1200\&color=7dd3fc\&center=true\&vCenter=true\&width=700\&lines=Java+%26+Spring+Boot+Backend+Developer;Building+Taskly+%E2%80%94+an+AI+React+Code+Generator;Microservices+%7C+Kafka+%7C+Eureka+%7C+JWT;ML-based+Disease+Prediction+with+Flask+%26+SVM;500%2B+DSA+Problems+Solved;Oracle+OCI+Certified+in+Generative+AI)](https://github.com/ranjit-kumar27)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranjit-kumar27&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ranjit-kumar27?color=7dd3fc&style=flat-square&labelColor=0f172a&logo=github&logoColor=7dd3fc)
+![Profile Views](https://komarev.com/ghpvc/?username=ranjit-kumar27\&color=7dd3fc\&style=flat-square\&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ranjit-kumar27?color=7dd3fc\&style=flat-square\&labelColor=0f172a\&logo=github\&logoColor=7dd3fc)
 
 </div>
 
@@ -16,24 +17,58 @@
 
 ```typescript
 const ranjit = {
-  title: "Final Year CSE Student & Java Backend Developer",
+  name: "Ranjit Kumar",
+  title: "Final-Year CSE Student & Java Backend Developer",
+
+  education:
+    "B.E. CSE @ Jaypee University of Engineering and Technology, Guna (2023–2027)",
+
+  focus: [
+    "Java Backend Development",
+    "Generative AI & RAG",
+    "System Design",
+    "Scalable Web Applications",
+  ],
+
   stack: [
-    "Java", "Spring Boot", "Spring AI", "Spring Security",
-    "Microservices", "Apache Kafka", "Eureka", "JWT",
-    "MySQL", "PostgreSQL", "SQL Server", "C", "C++", "Python"
+    "Java",
+    "Spring Boot",
+    "Spring AI",
+    "Spring Security",
+    "Microservices",
+    "Apache Kafka",
+    "Eureka",
+    "JWT",
+    "PostgreSQL",
+    "MySQL",
+    "SQL Server",
+    "Redis",
+    "Neo4j",
+    "Docker",
+    "Kubernetes",
+    "Python",
+    "C++",
+    "RAG",
+    "Vector Databases",
   ],
-  launchedProjects: [
-    "Taskly App Builder — AI Code Generator",
-    "LinkedIn-Like Scalable Backend"
+
+  projects: [
+    "Taskly App Builder — AI React Code Generator",
+    "LinkedIn-Like Backend — Microservices + Kafka",
+    "MedAdvisor — ML-Based Disease Prediction",
   ],
+
   certifications: [
-    "Java Programming Complete Beginner to Advanced — GeeksforGeeks",
+    "Java Programming: Complete Beginner to Advanced — GeeksforGeeks",
     "Agentic AI Certified Foundations Associate — Oracle",
     "OCI 2025 Certified Generative AI Professional — Oracle",
-    "OCI 2025 Certified AI Foundations Associate — Oracle"
+    "OCI 2025 Certified AI Foundations Associate — Oracle",
   ],
-  status: "B.E. CSE @ Jaypee University of Engineering and Technology, Guna (2023–2027)",
-  openTo: ["Backend Development (Java / Spring Boot)", "System Design & Scalable Web Applications"]
+
+  openTo: [
+    "Java / Spring Boot Backend Roles",
+    "Software Engineering Opportunities",
+  ],
 };
 ```
 
@@ -41,59 +76,93 @@ const ranjit = {
 
 ## 🚀 Featured Projects
 
-### 🤖 Taskly App Builder — AI Code Generator
+### 🤖 Taskly App Builder — AI React Code Generator
 
-A SaaS application built with Spring Boot and Spring AI that generates, compiles, and live-previews ready-to-use React code from natural language prompts, streamed in real time over SSE.
+A SaaS application built with **Java, Spring Boot, and Spring AI** that generates ready-to-use React code from natural-language prompts and streams the generated code in real time using **Server-Sent Events (SSE)**.
 
-[![Taskly App Builder](https://github-readme-stats.vercel.app/api/pin/?username=ranjit-kumar27&repo=taskly-app-builder&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/ranjit-kumar27/taskly-app-builder)
+| Layer               | Technology                 |
+| ------------------- | -------------------------- |
+| Backend             | Java, Spring Boot          |
+| AI                  | Spring AI                  |
+| Real-Time Streaming | Server-Sent Events (SSE)   |
+| Security            | Spring Security, JWT, RBAC |
+| Database            | PostgreSQL, Redis          |
+| Generated Output    | React                      |
 
-| Layer | Technology |
-|-------|------------|
-| Backend | Java, Spring Boot |
-| AI | Spring AI |
-| Real-time Streaming | Server-Sent Events (SSE) |
-| Security | Spring Security, Role-Based Access Control (RBAC) |
-| Generated Output | React |
-
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a)](https://github.com/ranjit-kumar27/taskly-app-builder)
+🔗 [**View Code on GitHub**](https://github.com/ranjit-kumar27/taskly-app-builder)
 
 <br/>
 
 ### 🔗 LinkedIn-Like Scalable Backend
 
-A loosely coupled microservices backend for core social network interactions, with an API Gateway, service discovery, Kafka-driven notifications, and a connection graph service.
+A loosely coupled **microservices backend** for social-network interactions, featuring an API Gateway, Eureka service discovery, Kafka-based event communication, JWT authentication, and **Neo4j for modeling user connections**.
 
-[![LinkedIn-Like Backend](https://github-readme-stats.vercel.app/api/pin/?username=ranjit-kumar27&repo=linkedInProject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/ranjit-kumar27/linkedInProject)
+| Layer                | Technology               |
+| -------------------- | ------------------------ |
+| Language & Framework | Java, Spring Boot        |
+| Architecture         | Microservices, REST APIs |
+| API Gateway          | Spring Cloud Gateway     |
+| Authentication       | JWT                      |
+| Service Discovery    | Eureka                   |
+| Messaging            | Apache Kafka             |
+| Databases            | PostgreSQL, Neo4j        |
 
-| Layer | Technology |
-|-------|------------|
-| Language & Framework | Java, Spring Boot |
-| Architecture | Microservices, REST APIs |
-| Edge / Routing | API Gateway (rate limiting, JWT validation) |
-| Service Discovery | Eureka |
-| Messaging | Apache Kafka |
+🔗 [**View Code on GitHub**](https://github.com/ranjit-kumar27/linkedInProject)
 
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a)](https://github.com/ranjit-kumar27/linkedInProject)
+<br/>
+
+### 🩺 MedAdvisor — ML-Based Disease Prediction
+
+An **ML-powered web application** built with Python and Flask that predicts possible diseases from user symptoms using a trained **Support Vector Machine (SVM)** model and provides supporting information such as descriptions, precautions, medications, diet recommendations, and workout suggestions.
+
+| Layer            | Technology           |
+| ---------------- | -------------------- |
+| Frontend         | HTML, CSS, Bootstrap |
+| Backend          | Python, Flask        |
+| Machine Learning | Scikit-learn, SVM    |
+| Data Processing  | NumPy, Pandas        |
+
+🔗 [**View Code on GitHub**](https://github.com/ranjit-kumar27/medadvisor-personalized-medical-guidance)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Languages](https://skillicons.dev/icons?i=java,c,cpp,py&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,c,cpp,py\&theme=dark)
 
-**Backend / Infra**
+### Frontend
 
-![Backend](https://skillicons.dev/icons?i=spring,kafka&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap\&theme=dark)
 
-**Databases**
+### Backend & Infrastructure
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)
+![Backend](https://skillicons.dev/icons?i=spring,kafka,flask,docker,kubernetes\&theme=dark)
 
-**Dev Tools**
+### Databases
 
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,redis,neo4j\&theme=dark)
+
+### AI & Machine Learning
+
+![AI](https://skillicons.dev/icons?i=python\&theme=dark)
+
+![RAG](https://img.shields.io/badge/AI-RAG-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![Vector Database](https://img.shields.io/badge/AI-Vector_Database-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+
+### Concepts
+
+![DSA](https://img.shields.io/badge/DSA-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![OOP](https://img.shields.io/badge/OOP-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![DBMS](https://img.shields.io/badge/DBMS-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![Operating Systems](https://img.shields.io/badge/OS-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+![System Design](https://img.shields.io/badge/System_Design-7dd3fc?style=for-the-badge\&labelColor=0f172a)
+
+### Developer Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,idea\&theme=dark)
 
 ---
 
@@ -101,30 +170,9 @@ A loosely coupled microservices backend for core social network interactions, wi
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ranjit-kumar27&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-kumar27&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9)
 
-![Streak](https://streak-stats.demolab.com?user=ranjit-kumar27&background=2E3440&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakNum=d8dee9&sideNums=d8dee9&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=d8dee9&border=7dd3fc)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ranjit-kumar27&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjit-kumar27&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=d8dee9&area=true&area_color=7dd3fc&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ranjit-kumar27\&background=2E3440\&stroke=7dd3fc\&ring=7dd3fc\&fire=7dd3fc\&currStreakNum=d8dee9\&sideNums=d8dee9\&currStreakLabel=7dd3fc\&sideLabels=7dd3fc\&dates=d8dee9\&border=7dd3fc)
 
 </div>
 
@@ -134,9 +182,17 @@ A loosely coupled microservices backend for core social network interactions, wi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a&labelColor=0f172a)](https://linkedin.com/in/ranjit-kumar11/)
-[![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a&labelColor=0f172a)](mailto:ranjitkumarak147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge\&logo=linkedin\&logoColor=0f172a\&labelColor=0f172a)](https://linkedin.com/in/ranjit-kumar11/)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=140&section=footer&animation=twinkling)
+[![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge\&logo=gmail\&logoColor=0f172a\&labelColor=0f172a)](mailto:ranjitkumarak147@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:7dd3fc,100:0f172a\&height=140\&section=footer\&animation=twinkling)
+
+</div>
+```
