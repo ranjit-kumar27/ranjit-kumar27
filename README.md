@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1200\&color=7dd3fc\&center=true\&vCenter=true\&width=700\&lines=Java+%26+Spring+Boot+Backend+Developer;Building+Taskly+%E2%80%94+an+AI+React+Code+Generator;Microservices+%7C+Kafka+%7C+Eureka+%7C+JWT;ML-based+Disease+Prediction+with+Flask+%26+SVM;500%2B+DSA+Problems+Solved;Oracle+OCI+Certified+in+Generative+AI)](https://github.com/ranjit-kumar27)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranjit-kumar27\&color=7dd3fc\&style=flat-square\&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ranjit-kumar27?color=7dd3fc\&style=flat-square\&labelColor=0f172a\&logo=github\&logoColor=7dd3fc)
+![Profile Views](https://komarev.com/ghpvc/?username=ranjit-kumar27\&color=7dd3fc\&style=flat-square\&label=Profile+Views)
 
 </div>
 
