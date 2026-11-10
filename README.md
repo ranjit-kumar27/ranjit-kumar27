@@ -93,7 +93,7 @@ A SaaS application built with **Java, Spring Boot, and Spring AI** that generate
 
 <br/>
 
-### 🔗 LinkedIn-Like Scalable Backend
+### 🔗 Alumni Connection Platform – Scalable Backend Using Microservices Architecture
 
 A loosely coupled **microservices backend** for social-network interactions, featuring an API Gateway, Eureka service discovery, Kafka-based event communication, JWT authentication, and **Neo4j for modeling user connections**.
 
